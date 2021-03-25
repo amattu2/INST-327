@@ -14,14 +14,16 @@ Book:
 |:-|:-|:-|
 |Lab 1|100%|
 |Lab 2|100%|
-|Lab 3||
-|Lab 4||
+|Lab 3|100%|
+|Lab 4|100%|
+|Lab 5|100%|
 
 # Homework Grades
 
 |Homework|Grade|Notes|
 |:-|:-|:-|
-|Assignment 1||
+|Assignment 1|95%|Minor point deductions for row ordering|
+|Assignment 2||
 
 # Notes
 N/A
