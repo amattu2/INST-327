@@ -23,7 +23,7 @@ Book:
 |Homework|Grade|Notes|
 |:-|:-|:-|
 |Assignment 1|95%|Minor point deductions for row ordering|
-|Assignment 2||
+|Assignment 2|97%|-3 Deduction for last question, delete queries too complex|
 
 # Notes
 N/A
