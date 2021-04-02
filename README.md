@@ -17,6 +17,8 @@ Book:
 |Lab 3|100%|
 |Lab 4|100%|
 |Lab 5|100%|
+|Lab 6||
+|Lab 7||
 
 # Homework Grades
 
@@ -26,7 +28,7 @@ Book:
 |Assignment 2|97%|-3 Deduction for last question, delete queries too complex|
 
 # Notes
-N/A
+Lab 6 was just a small writeup about normalization, no SQL files were generated.
 
 # Requirements & Dependencies
 Languages
