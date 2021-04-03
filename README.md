@@ -26,6 +26,7 @@ Book:
 |:-|:-|:-|
 |Assignment 1|95%|Minor point deductions for row ordering|
 |Assignment 2|97%|-3 Deduction for last question, delete queries too complex|
+|Assignment 3|||
 
 # Notes
 Lab 6 was just a small writeup about normalization, no SQL files were generated.
