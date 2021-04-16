@@ -17,8 +17,8 @@ Book:
 |Lab 3|100%|
 |Lab 4|100%|
 |Lab 5|100%|
-|Lab 6||
 |Lab 7||
+|Lab 9||
 
 # Homework Grades
 
@@ -29,7 +29,7 @@ Book:
 |Assignment 3|||
 
 # Notes
-Lab 6 was just a small writeup about normalization, no SQL files were generated.
+Labs (6, 8) did not include code, and were not included here.
 
 # Requirements & Dependencies
 Languages
