@@ -29,6 +29,7 @@ Book:
 |Assignment 2|97%|-3 Deduction for last question, delete queries too complex|
 |Assignment 3|67%|*Class average for A3 was 58.85%*</br></br>Q1: 22/25</br>Q2: 25/25</br>Q3: 18/25</br>Q4: 2/25|
 |Assignment 4||
+|Assignment 5||
 
 # Notes
 Labs (6, 8) did not include code, and were not included here.
