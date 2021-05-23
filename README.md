@@ -29,7 +29,8 @@ Book:
 |Assignment 2|97%|-3 Deduction for last question, delete queries too complex|
 |Assignment 3|67%|*Class average for A3 was 58.85%*</br></br>Q1: 22/25</br>Q2: 25/25</br>Q3: 18/25</br>Q4: 2/25|
 |Assignment 4|85%|-15pt deductions (total) for using `---` instead of `--` as a comment prefix. Class average is 66.1%|
-|Assignment 5||
+|Assignment 5|91%|Class average at 79.29%|
+|Final Database Project|92%|
 
 # Notes
 Labs (6, 8, 11) did not include code, and were not included here.
